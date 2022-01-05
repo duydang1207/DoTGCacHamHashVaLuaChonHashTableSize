@@ -1,0 +1,27 @@
+﻿  Algorithms.cpp
+  HashTable.cpp
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(51,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(87,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(89,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(120,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(122,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(181,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive\Máy tính\HashTable\HashTable\HashTable.cpp(185,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  HashTable.vcxproj -> C:\Users\ADMIN\OneDrive\Máy tính\HashTable\Debug\HashTable.exe
